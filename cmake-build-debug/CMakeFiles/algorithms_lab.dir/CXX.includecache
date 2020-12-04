@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a1/CLionProjects/algorithms-lab/main.cpp
+iostream
+-
+fstream
+-
+queue
+-
+chrono
+-
+utility
+-
+vector
+-
+tournament_sort.h
+/Users/a1/CLionProjects/algorithms-lab/tournament_sort.h
+
+/Users/a1/CLionProjects/algorithms-lab/tournament_sort.h
+utility
+-
+vector
+-
+
